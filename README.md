@@ -12,3 +12,6 @@ The project utilizes Bootstrap 5, a powerful open-source CSS framework for respo
 - **High Performance**: With the help of Parcel, we ensure that the website loads fast and provides a smooth user experience.
 - **Bundled with Parcel**: All the CSS, HTML, and JS files are bundled using Parcel, enhancing the performance and speed of the site.
 - **Bootstrap 5 Conventions**: The site is developed according to Bootstrap 5 conventions, which ensures accessibility and usability.
+
+
+![bootstrap5](https://github.com/mirganiyevrufan/bootstrap5/assets/113489022/e0fa165d-0248-4753-9021-09ff69ba5c26)
